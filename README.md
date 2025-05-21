@@ -10,7 +10,7 @@
 
 ### [Setting up mitmproxy / mitmdump (for HAR recording)](https://github.com/drasecurity/webtica-doc/wiki/Set-up-mitmproxy-(included-mitmdump))
 
-![image](https://github.com/user-attachments/assets/9cbaaf18-bb69-4daa-905b-970bfd3efe8e)
+![image](https://github.com/user-attachments/assets/cd1b68e4-eea3-4159-82b1-68ac82c5e216)
 
 ## And More: 
 
@@ -20,5 +20,5 @@
 
 ### [Webtica - Settings](https://github.com/drasecurity/webtica-doc/wiki/Webtica-%E2%80%90-Settings)
 
-![image](https://github.com/user-attachments/assets/2d159d98-bcda-4983-8783-cec2ff1ec8df)
+![image](https://github.com/user-attachments/assets/016ac9bc-29a2-4082-93ff-99dd23788ed7)
 
